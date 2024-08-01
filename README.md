@@ -12,12 +12,12 @@ With this, we can plot the following information:
 of Product Line, as shown in Fig1.1.
 ![fig1_1](https://github.com/user-attachments/assets/3cfcab80-10d7-4925-a10b-9c6578fcffa8)
 <sup><sub>Figure1.1. Total Items in each Warehouse</sub></sup>
-2. Each Warehouse had a certain number of Products within these Lines: Fig1.2.
+3. Each Warehouse had a certain number of Products within these Lines: Fig1.2.
 	We can see the two figures show the same distribution order. Warehouse b has the
 most items and Products, followed by a, c, and d being the last.
 ![fig1_2](https://github.com/user-attachments/assets/c718222e-073f-44bd-8d5b-8b6672f8b684)
 <sup><sub>Figure1.2. Product Distribution across Warehouses</sub></sup>
-3. The distribution of Products by Product Line is shown in Fig1.3.
+5. The distribution of Products by Product Line is shown in Fig1.3.
 ![fig1_3](https://github.com/user-attachments/assets/455df2aa-28a4-411e-8481-0f4174833904)
 <sup><sub>Figure1.3. Product Distribution in Warehouses</sub></sup>
 The next plot (Fig 2.1) shows the percentage that each Warehouse is utilized,
